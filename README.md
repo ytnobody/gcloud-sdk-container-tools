@@ -17,7 +17,7 @@ Manipulation tools for the Google Cloud SDK in Docker Containers
 
 ### 2. Create your new GCP Service-Account
 
-Let us go `https://console.developers.google.com/project/[YOUR_PROJECT_ID/apiui/credential` and create new GCP Service-Account.
+Let us go `https://console.developers.google.com/project/{YOUR_PROJECT_ID}/apiui/credential` and create new GCP Service-Account.
 
 Then, *Don't you forget downloading  private key file IN JSON FORMAT!!!*
 
